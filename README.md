@@ -32,3 +32,7 @@ A simple yet powerful shell written in Java, featuring a color-coded interface a
    ```
 
 > Note: Requires a terminal that supports ANSI color codes
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
