@@ -2,7 +2,7 @@
 
 A simple yet powerful shell written in Java, featuring a color-coded interface and multiple useful commands.
 
-![Screenshot](developer_tools/minishell.PNG?raw=true)
+![Screenshot](developer_tools/minishell.png?raw=true)
 
 ## Features
 - Colorful UI with ANSI escape codes
